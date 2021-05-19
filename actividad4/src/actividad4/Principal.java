@@ -8,7 +8,7 @@ public class Principal {
 		System.out.println("Hola mundo. Java Git2.");
 		System.out.println("Hola mundo. Java Git3.");
 		System.out.println("Hola mundo. Java Git4.");
-		//System.out.println("Hola mundo. Java Git5.");
+		System.out.println("Hola mundo. Java Git5.");
 	}
 
 }
